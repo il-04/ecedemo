@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- name: tata
+ name: test
 
 steps:
 - script: |
